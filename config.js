@@ -1,7 +1,7 @@
 /*
    * Base By Dika Ardnt
    * Create By Naze
-   * Recode By Danta
+   * Recode By Danta dev
    * Contact Me on wa.me/6281356484612
    * Follow https://github.com/Nazedev
 */
