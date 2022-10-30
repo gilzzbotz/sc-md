@@ -3,16 +3,16 @@ sc ini hanyalah hasil recode dari sc asli hisoka
 naze hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
-#nazedev
+#NazeMD
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/52d26722f66ef0fa34902.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Naze Devp</h1>
+<h1 align="center">NAZE DEV</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -32,13 +32,13 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ```bash
 git clone https://github.com/nazedev/naze-md
-cd naze-md
+cd naze
 npm install
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
 
-* Create account and database in mongodb atlas [`watch here`](https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw)
+* Create account and database in mongodb atlas [`watch here`](https://youtu.be/w1iMJS0ib-w)
 * when you already have a database, you just need to take mongourl
 * Put mongourl in Procfile `web: node . --db 'mongourl'`
 * Example `web: node . -- db 'Your Mongo URI'`
@@ -53,7 +53,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/nazedev/naze-md
-cd naze-md
+cd naze
 npm install
 ```
 
@@ -73,7 +73,7 @@ $ node .
 Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/nazedev/naze-md/blob/main/config.js)
+Editing Number Owner in [`config.js`](https://github.com/nazedev/naze-md/blob/main/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
@@ -90,7 +90,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`bintang`](https://github.com/Bintangp02)
 * [`ArullOfc`](https://github.com/Warikrr)
 * [`Naze Dev`](https://github.com/nazedev)
-* [`Maxxy-Md`](https://github.com/Maxxy-Md)
+* [`Danta Dev`](https://github.com/Dantadev)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -98,8 +98,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/MaxxyBotz)
-
-#Donasi Buat Up Beli Paket Agar Bisa Sering Upload sc di yt
-pulsa = 085295374964 (Maxxy Botz)
-Dana = 085380166282
+* [`Saweria`](https://saweria.co/naze)
